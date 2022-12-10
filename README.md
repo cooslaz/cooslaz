@@ -9,4 +9,4 @@ cooslaz/cooslaz is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 (I love coffee and am very addicted to coffee:v)
-Buy Me A Coffee
+<a href="https://www.buymeacoffee.com/coolslaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
